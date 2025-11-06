@@ -1,6 +1,6 @@
 ## Installation
 
-This project mainly aims at the problems such as low accuracy, slow speed, and excessive parameter and computational load when the target detection algorithm performs apple maturity and pest and disease detection in complex orchard scenarios. A lightweight detection model: SG-DETR is proposed. Reference data set link: https://huggingface.co/datasets/Star94364/Apple/tree/main
+This project mainly aims at the problems such as low accuracy, slow speed, and excessive parameter and computational load when the target detection algorithm performs apple maturity and pest and disease detection in complex orchard scenarios. A lightweight detection model: SG-DETR is proposed. Please extract SG-DETR.zip for use. Reference data set link: https://huggingface.co/datasets/Star94364/Apple/tree/main
 
 ### System Requirements
 - Recommended: Ubuntu 20.04
